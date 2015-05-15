@@ -1,0 +1,120 @@
+2015-02-15 14:05:04 : yapbq_input_dir: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/yapbq_input
+2015-02-15 14:05:04 : Start date: 2015-02-15 14:04:50
+2015-02-15 14:05:04 : Hours between post: 24
+2015-02-15 14:13:05 : yapbq_input_dir: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/yapbq_input
+2015-02-15 14:13:05 : Start date: 2015-02-15 14:12:04
+2015-02-15 14:13:05 : Hours between post: 24
+2015-02-15 14:13:05 : insert post result: 84
+2015-02-15 14:13:05 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/cloudways.png
+2015-02-15 14:13:05 : insert post result: 85
+2015-02-15 14:13:05 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/cloudways2.png
+2015-02-15 23:52:14 : yapbq_input_dir: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/yapbq_input
+2015-02-15 23:52:14 : Start date: 2015-02-15 23:47:35
+2015-02-15 23:52:14 : Hours between post: 24
+2015-02-15 23:52:14 : insert post result: 244
+2015-02-15 23:52:14 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/emergency.jpg
+2015-02-15 23:52:14 : insert post result: 245
+2015-02-15 23:52:14 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/stock-photo-27206088-doctors-in-corridor.jpg
+2015-02-15 23:52:14 : insert post result: 246
+2015-02-15 23:52:14 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/stock-photo-28750496-heroes-of-the-medical-profession.jpg
+2015-02-15 23:52:14 : insert post result: 247
+2015-02-15 23:52:14 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/stock-photo-34021172-i-m-so-glad-to-see-you-re-smiling.jpg
+2015-02-15 23:57:09 : yapbq_input_dir: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/yapbq_input
+2015-02-15 23:57:09 : Start date: 2015-02-15 23:57:02
+2015-02-15 23:57:09 : Hours between post: 24
+2015-02-15 23:57:48 : yapbq_input_dir: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/yapbq_input
+2015-02-15 23:57:48 : Start date: 2015-02-15 23:57:44
+2015-02-15 23:57:48 : Hours between post: 24
+2015-02-15 23:57:48 : insert post result: 252
+2015-02-15 23:57:48 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/ahmad.jpg
+2015-02-15 23:57:48 : insert post result: 254
+2015-02-15 23:57:48 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/emergency.jpg
+2015-02-15 23:57:48 : insert post result: 256
+2015-02-15 23:57:48 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/stock-photo-27206088-doctors-in-corridor.jpg
+2015-02-15 23:57:48 : insert post result: 258
+2015-02-15 23:57:48 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/stock-photo-28750496-heroes-of-the-medical-profession.jpg
+2015-02-15 23:57:49 : insert post result: 260
+2015-02-15 23:57:49 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/stock-photo-32377664-doctor-pushing-and-assisting-patient-in-the-hospital-beijing-china.jpg
+2015-02-15 23:57:49 : insert post result: 262
+2015-02-15 23:57:49 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/stock-photo-33206068-male-nurse-talking-to-child-in-hospital-bed.jpg
+2015-02-15 23:57:49 : insert post result: 264
+2015-02-15 23:57:49 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/stock-photo-34021172-i-m-so-glad-to-see-you-re-smiling.jpg
+2015-02-15 23:57:49 : insert post result: 266
+2015-02-15 23:57:49 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/stock-photo-34021290-the-medical-administration-hotspot.jpg
+2015-02-15 23:57:49 : insert post result: 268
+2015-02-15 23:57:49 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/stock-photo-34493854-you-re-recovering-amazingly-well.jpg
+2015-02-15 23:57:49 : insert post result: 270
+2015-02-15 23:57:49 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/stock-photo-34951556-surgeon-doctors-working-in-operation-theater.jpg
+2015-02-15 23:57:49 : insert post result: 272
+2015-02-15 23:57:49 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/stock-photo-35950984-senior-female-patient-in-wheelchair-doctor-in-hospital.jpg
+2015-02-16 00:05:20 : yapbq_input_dir: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/yapbq_input
+2015-02-16 00:05:20 : Start date: 2015-02-16 00:04:39
+2015-02-16 00:05:20 : Hours between post: 24
+2015-02-16 00:05:21 : insert post result: 285
+2015-02-16 00:05:21 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/1_ahmad.jpg
+2015-02-16 00:05:21 : insert post result: 287
+2015-02-16 00:05:21 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/1_emergency.jpg
+2015-02-16 00:05:21 : insert post result: 289
+2015-02-16 00:05:21 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/1_stock-photo-27206088-doctors-in-corridor.jpg
+2015-02-16 00:05:21 : insert post result: 291
+2015-02-16 00:05:21 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/1_stock-photo-28750496-heroes-of-the-medical-profession.jpg
+2015-02-16 00:05:21 : insert post result: 293
+2015-02-16 00:05:21 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/1_stock-photo-32377664-doctor-pushing-and-assisting-patient-in-the-hospital-beijing-china.jpg
+2015-02-16 00:05:21 : insert post result: 295
+2015-02-16 00:05:21 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/1_stock-photo-33206068-male-nurse-talking-to-child-in-hospital-bed.jpg
+2015-02-16 00:05:21 : insert post result: 297
+2015-02-16 00:05:21 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/1_stock-photo-34021172-i-m-so-glad-to-see-you-re-smiling.jpg
+2015-02-16 00:05:21 : insert post result: 299
+2015-02-16 00:05:21 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/1_stock-photo-34021290-the-medical-administration-hotspot.jpg
+2015-02-16 00:05:21 : insert post result: 301
+2015-02-16 00:05:21 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/1_stock-photo-34493854-you-re-recovering-amazingly-well.jpg
+2015-02-16 00:05:21 : insert post result: 303
+2015-02-16 00:05:21 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/1_stock-photo-34951556-surgeon-doctors-working-in-operation-theater.jpg
+2015-02-16 00:05:21 : insert post result: 305
+2015-02-16 00:05:21 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/1_stock-photo-35950984-senior-female-patient-in-wheelchair-doctor-in-hospital.jpg
+2015-02-16 00:15:32 : yapbq_input_dir: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/yapbq_input
+2015-02-16 00:15:32 : Start date: 2015-02-16 00:15:16
+2015-02-16 00:15:32 : Hours between post: 24
+2015-02-16 00:15:32 : insert post result: 308
+2015-02-16 00:15:32 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/stock-photo-17773161-tasty-smoothie.jpg
+2015-02-16 00:15:32 : insert post result: 310
+2015-02-16 00:15:32 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/stock-photo-20778541-table-filled-with-different-types-of-foods.jpg
+2015-02-16 00:15:32 : insert post result: 312
+2015-02-16 00:15:32 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/stock-photo-22659945-healthy-organic-vegetables-on-a-wooden-background.jpg
+2015-02-16 00:15:32 : insert post result: 314
+2015-02-16 00:15:32 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/stock-photo-27293285-ready-to-juice.jpg
+2015-02-16 00:15:33 : insert post result: 316
+2015-02-16 00:15:33 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/stock-photo-33709016-jogging-shoes-closeup.jpg
+2015-02-16 00:15:33 : insert post result: 318
+2015-02-16 00:15:33 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/stock-photo-34994042-silhouette-of-couple-cyclist-at-sunset-with-reflection-on-water.jpg
+2015-02-16 00:15:33 : insert post result: 320
+2015-02-16 00:15:33 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/stock-photo-39535790-woman-jogging-on-road.jpg
+2015-02-16 00:15:33 : insert post result: 322
+2015-02-16 00:15:33 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/stock-photo-42588388-fruits-and-vegetables.jpg
+2015-02-16 00:15:33 : insert post result: 324
+2015-02-16 00:15:33 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/stock-photo-44773808-salad-in-bowl-on-wood-table.jpg
+2015-02-16 04:40:31 : yapbq_input_dir: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/yapbq_input
+2015-02-16 04:40:31 : Start date: 2015-02-16 04:40:26
+2015-02-16 04:40:31 : Hours between post: 24
+2015-02-16 04:40:31 : insert post result: 355
+2015-02-16 04:40:31 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/2_stock-photo-28750496-heroes-of-the-medical-profession.jpg
+2015-02-16 04:40:31 : insert post result: 357
+2015-02-16 04:40:31 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/2_stock-photo-32377664-doctor-pushing-and-assisting-patient-in-the-hospital-beijing-china.jpg
+2015-02-16 04:40:31 : insert post result: 359
+2015-02-16 04:40:31 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/2_stock-photo-33206068-male-nurse-talking-to-child-in-hospital-bed.jpg
+2015-02-16 04:40:31 : insert post result: 361
+2015-02-16 04:40:31 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/1_stock-photo-33709016-jogging-shoes-closeup.jpg
+2015-02-16 04:40:31 : insert post result: 363
+2015-02-16 04:40:31 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/2_stock-photo-34021172-i-m-so-glad-to-see-you-re-smiling.jpg
+2015-02-16 04:40:31 : insert post result: 365
+2015-02-16 04:40:31 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/2_stock-photo-34021290-the-medical-administration-hotspot.jpg
+2015-02-16 04:40:32 : insert post result: 367
+2015-02-16 04:40:32 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/2_stock-photo-34493854-you-re-recovering-amazingly-well.jpg
+2015-02-16 04:40:32 : insert post result: 369
+2015-02-16 04:40:32 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/2_stock-photo-34951556-surgeon-doctors-working-in-operation-theater.jpg
+2015-02-16 04:40:32 : insert post result: 371
+2015-02-16 04:40:32 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/2_stock-photo-35950984-senior-female-patient-in-wheelchair-doctor-in-hospital.jpg
+2015-02-16 04:40:32 : insert post result: 373
+2015-02-16 04:40:32 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/1_stock-photo-39535790-woman-jogging-on-road.jpg
+2015-02-16 04:40:32 : insert post result: 375
+2015-02-16 04:40:32 : image path: /srv/users/serverpilot/apps/jknsgallery/public/wp-content/uploads/2015/02/1_stock-photo-42588388-fruits-and-vegetables.jpg

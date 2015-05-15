@@ -1,0 +1,1 @@
+<a href="http://www.elegantthemes.com/gallery/notebook/readme.html" target="_blank"><?php esc_html_e( 'Read Notebook Documentation', $themename ); ?></a>

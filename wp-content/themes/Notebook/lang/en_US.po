@@ -1,0 +1,1818 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Notebook 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-02 21:06+0400\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Ann <anochka1985@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_attr__;esc_attr_e;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:19 ../functions.php:117
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:19
+msgid "One Comment"
+msgstr ""
+
+#: ../comments.php:19
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:23 ../comments.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: ../comments.php:24 ../comments.php:37
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../comments.php:43
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: ../comments.php:63 ../page-contact.php:144 ../page-search.php:78
+msgid "Submit"
+msgstr ""
+
+#: ../comments.php:63
+msgid "Submit a Comment"
+msgstr ""
+
+#: ../comments.php:63
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../footer.php:11
+#, php-format
+msgid "Designed by %s | Powered by %s"
+msgstr ""
+
+#: ../functions.php:11
+msgid "Thin Vertical Lines"
+msgstr ""
+
+#: ../functions.php:11
+msgid "Small Squares"
+msgstr ""
+
+#: ../functions.php:11
+msgid "Thick Diagonal Lines"
+msgstr ""
+
+#: ../functions.php:11
+msgid "Thin Diagonal Lines"
+msgstr ""
+
+#: ../functions.php:11
+msgid "Diamonds"
+msgstr ""
+
+#: ../functions.php:11
+msgid "Small Circles"
+msgstr ""
+
+#: ../functions.php:11
+msgid "Thick Vertical Lines"
+msgstr ""
+
+#: ../functions.php:11
+msgid "Thin Flourish"
+msgstr ""
+
+#: ../functions.php:11
+msgid "Thick Flourish"
+msgstr ""
+
+#: ../functions.php:11
+msgid "Pocodot"
+msgstr ""
+
+#: ../functions.php:11
+msgid "Checkerboard"
+msgstr ""
+
+#: ../functions.php:11
+msgid "Squares"
+msgstr ""
+
+#: ../functions.php:11
+msgid "Noise"
+msgstr ""
+
+#: ../functions.php:11
+msgid "Wooden"
+msgstr ""
+
+#: ../functions.php:11
+msgid "Stone"
+msgstr ""
+
+#: ../functions.php:11
+msgid "Canvas"
+msgstr ""
+
+#: ../functions.php:48
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:75
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: ../functions.php:89
+msgid "By"
+msgstr ""
+
+#: ../functions.php:93 ../page-blog.php:62
+msgid "on"
+msgstr ""
+
+#: ../functions.php:96 ../page-blog.php:62
+msgid "in"
+msgstr ""
+
+#: ../functions.php:115
+msgid "% Comments"
+msgstr ""
+
+#: ../functions.php:119
+msgid "1 Comment"
+msgstr ""
+
+#: ../functions.php:217
+msgid "Play"
+msgstr ""
+
+#: ../functions.php:218
+msgid "Pause"
+msgstr ""
+
+#: ../functions.php:227
+msgid "Update Required"
+msgstr ""
+
+#: ../functions.php:228
+#, php-format
+msgid ""
+"To play the media you will need to either update your browser to a recent "
+"version or update your %s."
+msgstr ""
+
+#: ../functions.php:310 ../loop-page.php:26 ../page-blog.php:104
+#: ../page-contact.php:152 ../page-gallery.php:85 ../page-search.php:50
+#: ../page-search.php:86 ../page-sitemap.php:44 ../page-sitemap.php:75
+#: ../page-template-portfolio.php:176 ../epanel/options_notebook.php:238
+msgid "Pages"
+msgstr ""
+
+#: ../functions.php:311 ../loop-page.php:27 ../page-blog.php:105
+#: ../page-contact.php:153 ../page-gallery.php:86 ../page-login.php:58
+#: ../page-search.php:87 ../page-sitemap.php:76
+#: ../page-template-portfolio.php:177
+msgid "Edit this page"
+msgstr ""
+
+#: ../functions.php:331
+msgid "Example Colors"
+msgstr ""
+
+#: ../functions.php:341 ../functions.php:352
+msgid "or define your own in ePanel"
+msgstr ""
+
+#: ../functions.php:343
+msgid "Texture Overlays"
+msgstr ""
+
+#: ../functions.php:362 ../functions.php:532
+msgid "Fonts"
+msgstr ""
+
+#: ../functions.php:365
+msgid "Header"
+msgstr ""
+
+#: ../functions.php:376
+msgid "Body"
+msgstr ""
+
+#: ../functions.php:543 ../epanel/options_notebook.php:81
+msgid "Header Font"
+msgstr ""
+
+#: ../functions.php:557 ../epanel/options_notebook.php:96
+msgid "Body Font"
+msgstr ""
+
+#: ../header.php:59 ../epanel/custom_functions.php:434
+#: ../includes/breadcrumbs.php:4
+msgid "Home"
+msgstr ""
+
+#: ../page-blog.php:62
+msgid "Posted"
+msgstr ""
+
+#: ../page-blog.php:62
+msgid "by"
+msgstr ""
+
+#: ../page-blog.php:62 ../includes/postinfo.php:3 ../includes/postinfo.php:10
+msgid "0 comments"
+msgstr ""
+
+#: ../page-blog.php:62 ../includes/postinfo.php:3 ../includes/postinfo.php:10
+msgid "1 comment"
+msgstr ""
+
+#: ../page-blog.php:62 ../includes/postinfo.php:3 ../includes/postinfo.php:10
+msgid "comments"
+msgstr ""
+
+#: ../page-blog.php:82
+msgid "read more"
+msgstr ""
+
+#: ../page-contact.php:19
+msgid "Make sure you entered the captcha. "
+msgstr ""
+
+#: ../page-contact.php:22
+msgid "Numbers regenerated."
+msgstr ""
+
+#: ../page-contact.php:23
+msgid "You entered the wrong number in captcha. "
+msgstr ""
+
+#: ../page-contact.php:32
+msgid "Make sure you fill all fields. "
+msgstr ""
+
+#: ../page-contact.php:37
+msgid "Invalid Email. "
+msgstr ""
+
+#: ../page-contact.php:65
+msgid "Thanks for contacting us"
+msgstr ""
+
+#: ../page-contact.php:108 ../page-contact.php:109
+msgid "Name"
+msgstr ""
+
+#: ../page-contact.php:113 ../page-contact.php:114
+msgid "Email Address"
+msgstr ""
+
+#: ../page-contact.php:118 ../page-contact.php:119
+msgid "Subject"
+msgstr ""
+
+#: ../page-contact.php:126
+msgid "Captcha: "
+msgstr ""
+
+#: ../page-contact.php:137 ../page-contact.php:138
+msgid "Message"
+msgstr ""
+
+#: ../page-contact.php:143 ../epanel/core_functions.php:203
+#: ../epanel/core_functions.php:377
+msgid "Reset"
+msgstr ""
+
+#: ../page-gallery.php:67 ../page-template-portfolio.php:128
+msgid "Zoom in"
+msgstr ""
+
+#: ../page-gallery.php:68 ../page-template-portfolio.php:129
+msgid "Read more"
+msgstr ""
+
+#: ../page-login.php:48
+msgid "Username"
+msgstr ""
+
+#: ../page-login.php:49
+msgid "Password"
+msgstr ""
+
+#: ../page-search.php:44
+msgid "search this website"
+msgstr ""
+
+#: ../page-search.php:47
+msgid "search this site..."
+msgstr ""
+
+#: ../page-search.php:49
+msgid "Posts"
+msgstr ""
+
+#: ../page-search.php:53
+msgid "Select a month"
+msgstr ""
+
+#: ../page-sitemap.php:49 ../epanel/options_notebook.php:243
+msgid "Categories"
+msgstr ""
+
+#: ../page-sitemap.php:54
+msgid "Tags"
+msgstr ""
+
+#: ../page-sitemap.php:68
+msgid "Authors"
+msgstr ""
+
+#: ../searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: ../epanel/core_functions.php:26 ../epanel/core_functions.php:389
+msgid "Saving..."
+msgstr ""
+
+#: ../epanel/core_functions.php:27
+msgid "Options Saved."
+msgstr ""
+
+#: ../epanel/core_functions.php:73
+msgid "Options"
+msgstr ""
+
+#: ../epanel/core_functions.php:73
+msgid "Theme Options"
+msgstr ""
+
+#: ../epanel/core_functions.php:90
+msgid "settings saved."
+msgstr ""
+
+#: ../epanel/core_functions.php:93
+msgid "settings reset."
+msgstr ""
+
+#: ../epanel/core_functions.php:111 ../epanel/options_notebook.php:379
+msgid "General Settings"
+msgstr ""
+
+#: ../epanel/core_functions.php:114
+msgid "Navigation"
+msgstr ""
+
+#: ../epanel/core_functions.php:117
+msgid "Layout Settings"
+msgstr ""
+
+#: ../epanel/core_functions.php:120
+msgid "Ad Management"
+msgstr ""
+
+#: ../epanel/core_functions.php:123 ../epanel/options_notebook.php:471
+msgid "Colorization"
+msgstr ""
+
+#: ../epanel/core_functions.php:126
+msgid "SEO"
+msgstr ""
+
+#: ../epanel/core_functions.php:129
+msgid "Integration"
+msgstr ""
+
+#: ../epanel/core_functions.php:132
+msgid "Support Docs"
+msgstr ""
+
+#: ../epanel/core_functions.php:204
+msgid "Upload Image"
+msgstr ""
+
+#: ../epanel/core_functions.php:229
+msgid "You don't have pages"
+msgstr ""
+
+#: ../epanel/core_functions.php:362
+msgid "Save changes"
+msgstr ""
+
+#: ../epanel/core_functions.php:373
+msgid ""
+"This will return all of the settings throughout the options page to their "
+"default values. <strong>Are you sure you want to do this?"
+msgstr ""
+
+#: ../epanel/custom_functions.php:840
+msgid "Image doesn't exist"
+msgstr ""
+
+#: ../epanel/custom_functions.php:1029
+#, php-format
+msgid ""
+"<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't "
+"forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will "
+"disappear once you have clicked the Save button within the <a href=\"%2$s"
+"\">theme's options page</a>.</p></div>"
+msgstr ""
+
+#: ../epanel/custom_functions.php:1041
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox"
+"\" title=\"%1$s\">View version %3$s details</a>. <em>Auto-updates are not "
+"available for this theme. If this is an Elegant Themes theme, then you must "
+"re-download the theme from the member's area and <a href=\"http://www."
+"elegantthemes.com/members-area/documentation.html#update\" target=\"_blank"
+"\">re-install it</a> in order to update it to the latest version.</em>"
+msgstr ""
+
+#: ../epanel/custom_functions.php:1045
+msgid ""
+"Auto-updates are not available for this theme. If this is an Elegant Themes "
+"theme, then you must re-download the theme from the member's area and <a "
+"href=\"http://www.elegantthemes.com/members-area/documentation.html#update\" "
+"target=\"_blank\">re-install it</a> in order to update it to the latest "
+"version."
+msgstr ""
+
+#: ../epanel/import_settings.php:12
+msgid "Import epanel settings"
+msgstr ""
+
+#: ../epanel/options_notebook.php:34
+msgid "General"
+msgstr ""
+
+#: ../epanel/options_notebook.php:38
+msgid "Homepage"
+msgstr ""
+
+#: ../epanel/options_notebook.php:45
+msgid "Logo"
+msgstr ""
+
+#: ../epanel/options_notebook.php:49
+msgid ""
+"If you would like to use your own custom logo image click the Upload Image "
+"button."
+msgstr ""
+
+#: ../epanel/options_notebook.php:52
+msgid "Favicon"
+msgstr ""
+
+#: ../epanel/options_notebook.php:56
+msgid ""
+"If you would like to use your own custom favicon image click the Upload "
+"Image button."
+msgstr ""
+
+#: ../epanel/options_notebook.php:59
+msgid "Background Color"
+msgstr ""
+
+#: ../epanel/options_notebook.php:63
+msgid ""
+"This will enable a custom background color. Selecting the field will bring "
+"up the color picker which will allow you to choose a custom color."
+msgstr ""
+
+#: ../epanel/options_notebook.php:66
+msgid "Background Texture"
+msgstr ""
+
+#: ../epanel/options_notebook.php:71
+msgid "Choose a background texture from the drop down menu."
+msgstr ""
+
+#: ../epanel/options_notebook.php:74
+msgid "Background Image"
+msgstr ""
+
+#: ../epanel/options_notebook.php:78
+msgid ""
+"Place the file URL of the image you would like to use as your background. "
+msgstr ""
+
+#: ../epanel/options_notebook.php:86 ../epanel/options_notebook.php:101
+msgid "Choose a font from the drop down menu."
+msgstr ""
+
+#: ../epanel/options_notebook.php:89
+msgid "Header Font Color"
+msgstr ""
+
+#: ../epanel/options_notebook.php:93
+msgid ""
+"This will enable a custom header font color. Selecting the field will bring "
+"up the color picker which will allow you to choose a custom color."
+msgstr ""
+
+#: ../epanel/options_notebook.php:104
+msgid "Body Font Color"
+msgstr ""
+
+#: ../epanel/options_notebook.php:108
+msgid ""
+"This will enable a custom body font color. Selecting the field will bring up "
+"the color picker which will allow you to choose a custom color."
+msgstr ""
+
+#: ../epanel/options_notebook.php:111
+msgid "Blog Style post format"
+msgstr ""
+
+#: ../epanel/options_notebook.php:115
+msgid ""
+"By default the theme truncates your posts on index/homepages automatically "
+"to create post previews. If you would rather show your posts in full on "
+"index pages like a traditional blog then you can activate this feature."
+msgstr ""
+
+#: ../epanel/options_notebook.php:118
+msgid "Grab the first post image"
+msgstr ""
+
+#: ../epanel/options_notebook.php:122
+msgid ""
+"By default thumbnail images are created using custom fields. However, if you "
+"would rather use the images that are already in your post for your thumbnail "
+"(and bypass using custom fields) you can activate this option. Once "
+"activcated thumbnail images will be generated automatically using the first "
+"image in your post. The image must be hosted on your own server."
+msgstr ""
+
+#: ../epanel/options_notebook.php:127
+msgid "Number of Posts displayed on Category page"
+msgstr ""
+
+#: ../epanel/options_notebook.php:132
+msgid ""
+"Here you can designate how many recent articles are displayed on the "
+"Category page. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+
+#: ../epanel/options_notebook.php:135
+msgid "Number of Posts displayed on Archive pages"
+msgstr ""
+
+#: ../epanel/options_notebook.php:140
+msgid ""
+"Here you can designate how many recent articles are displayed on the Archive "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+
+#: ../epanel/options_notebook.php:143
+msgid "Number of Posts displayed on Search pages"
+msgstr ""
+
+#: ../epanel/options_notebook.php:148
+msgid ""
+"Here you can designate how many recent articles are displayed on the Search "
+"results pages. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+
+#: ../epanel/options_notebook.php:151
+msgid "Number of Posts displayed on Tag pages"
+msgstr ""
+
+#: ../epanel/options_notebook.php:156
+msgid ""
+"Here you can designate how many recent articles are displayed on the Tag "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+
+#: ../epanel/options_notebook.php:159
+msgid "Date format"
+msgstr ""
+
+#: ../epanel/options_notebook.php:164
+msgid ""
+"This option allows you to change how your dates are displayed. For more "
+"information please refer to the WordPress codex here:<a href='http://codex."
+"wordpress.org/Formatting_Date_and_Time' target='_blank'>Formatting Date and "
+"Time</a>"
+msgstr ""
+
+#: ../epanel/options_notebook.php:169
+msgid "Use excerpts when defined"
+msgstr ""
+
+#: ../epanel/options_notebook.php:173
+msgid "This will enable the use of excerpts in posts or pages."
+msgstr ""
+
+#: ../epanel/options_notebook.php:176
+msgid "Show Control Panel"
+msgstr ""
+
+#: ../epanel/options_notebook.php:180
+msgid ""
+"Here you can choose to display the CSS control panel on the homepage. This "
+"will only be visible to users that are logged in as an Administrator. "
+msgstr ""
+
+#: ../epanel/options_notebook.php:185
+msgid "Google Fonts subsets"
+msgstr ""
+
+#: ../epanel/options_notebook.php:189
+msgid "This will enable Google Fonts for Non-English languages."
+msgstr ""
+
+#: ../epanel/options_notebook.php:194
+msgid "Custom CSS"
+msgstr ""
+
+#: ../epanel/options_notebook.php:198
+msgid "Here you can add custom css to override or extend default styles."
+msgstr ""
+
+#: ../epanel/options_notebook.php:207
+msgid "Number of Recent Posts displayed on homepage"
+msgstr ""
+
+#: ../epanel/options_notebook.php:212
+msgid ""
+"Here you can designate how many recent articles are displayed on the "
+"homepage. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+
+#: ../epanel/options_notebook.php:215
+msgid "Exclude categories from homepage recent posts"
+msgstr ""
+
+#: ../epanel/options_notebook.php:219
+msgid ""
+"By default the homepage displays a list of all of your most recent posts. "
+"However, if you would like to exlcude certain category from the list you can "
+"do so here. "
+msgstr ""
+
+#: ../epanel/options_notebook.php:251
+msgid "Exclude pages from the navigation bar"
+msgstr ""
+
+#: ../epanel/options_notebook.php:255
+msgid ""
+"Here you can choose to remove certain pages from the navigation menu. All "
+"pages marked with an X will not appear in your navigation bar. "
+msgstr ""
+
+#: ../epanel/options_notebook.php:259 ../epanel/options_notebook.php:314
+msgid "Show dropdown menus"
+msgstr ""
+
+#: ../epanel/options_notebook.php:263
+msgid ""
+"If you would like to remove the dropdown menus from the pages navigation bar "
+"disable this feature."
+msgstr ""
+
+#: ../epanel/options_notebook.php:266
+msgid "Display Home link"
+msgstr ""
+
+#: ../epanel/options_notebook.php:270
+msgid ""
+"By default the theme creates a Home link that, when clicked, leads back to "
+"your blog's homepage. If, however, you are using a static homepage and have "
+"already created a page called Home to use, this will result in a duplicate "
+"link. In this case you should disable this feature to remove the link."
+msgstr ""
+
+#: ../epanel/options_notebook.php:275
+msgid "Sort Pages Links"
+msgstr ""
+
+#: ../epanel/options_notebook.php:279
+msgid "Here you can choose to sort your pages links."
+msgstr ""
+
+#: ../epanel/options_notebook.php:282
+msgid "Order Pages Links by Ascending/Descending"
+msgstr ""
+
+#: ../epanel/options_notebook.php:286
+msgid ""
+"Here you can choose to reverse the order that your pages links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+
+#: ../epanel/options_notebook.php:289 ../epanel/options_notebook.php:330
+msgid "Number of dropdown tiers shown"
+msgstr ""
+
+#: ../epanel/options_notebook.php:294 ../epanel/options_notebook.php:335
+msgid ""
+"This options allows you to control how many teirs your pages dropdown menu "
+"has. Increasing the number allows for additional menu items to be shown."
+msgstr ""
+
+#: ../epanel/options_notebook.php:306
+msgid "Exclude categories from the navigation bar"
+msgstr ""
+
+#: ../epanel/options_notebook.php:310
+msgid ""
+"Here you can choose to remove certain categories from the navigation menu. "
+"All categories marked with an X will not appear in your navigation bar. "
+msgstr ""
+
+#: ../epanel/options_notebook.php:318
+msgid ""
+"If you would like to remove the dropdown menus from the categories "
+"navigation bar disable this feature."
+msgstr ""
+
+#: ../epanel/options_notebook.php:321
+msgid "Hide empty categories"
+msgstr ""
+
+#: ../epanel/options_notebook.php:325
+msgid ""
+"If you would like categories to be displayed in your navigationbar that "
+"don't have any posts in them then disable this option. By default empty "
+"categories are hidden"
+msgstr ""
+
+#: ../epanel/options_notebook.php:340
+msgid "Sort Categories Links by Name/ID/Slug/Count/Term Group"
+msgstr ""
+
+#: ../epanel/options_notebook.php:344
+msgid ""
+"By default pages are sorted by name. However if you would rather have them "
+"sorted by ID you can adjust this setting."
+msgstr ""
+
+#: ../epanel/options_notebook.php:347
+msgid "Order Category Links by Ascending/Descending"
+msgstr ""
+
+#: ../epanel/options_notebook.php:351
+msgid ""
+"Here you can choose to reverse the order that your categories links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+
+#: ../epanel/options_notebook.php:369
+msgid "Single Post Layout"
+msgstr ""
+
+#: ../epanel/options_notebook.php:374
+msgid "Single Page Layout"
+msgstr ""
+
+#: ../epanel/options_notebook.php:387
+msgid "Choose which items to display in the postinfo section"
+msgstr ""
+
+#: ../epanel/options_notebook.php:391
+msgid ""
+"Here you can choose which items appear in the postinfo section on single "
+"post pages. This is the area, usually below the post title, which displays "
+"basic information about your post. The highlighted itmes shown below will "
+"appear. "
+msgstr ""
+
+#: ../epanel/options_notebook.php:394
+msgid "Place Thumbs on Posts"
+msgstr ""
+
+#: ../epanel/options_notebook.php:398
+msgid ""
+"By default thumbnails are placed at the beginning of your post on single "
+"post pages. If you would like to remove this initial thumbnail image to "
+"avoid repetition simply disable this option. "
+msgstr ""
+
+#: ../epanel/options_notebook.php:401
+msgid "Show comments on posts"
+msgstr ""
+
+#: ../epanel/options_notebook.php:405
+msgid ""
+"You can disable this option if you want to remove the comments and comment "
+"form from single post pages. "
+msgstr ""
+
+#: ../epanel/options_notebook.php:416
+msgid "Place Thumbs on Pages"
+msgstr ""
+
+#: ../epanel/options_notebook.php:420
+msgid ""
+"By default thumbnails are not placed on pages (they are only used on posts). "
+"However, if you want to use thumbnails on posts you can! Just enable this "
+"option. "
+msgstr ""
+
+#: ../epanel/options_notebook.php:423
+msgid "Show comments on pages"
+msgstr ""
+
+#: ../epanel/options_notebook.php:427
+msgid ""
+"By default comments are not placed on pages, however, if you would like to "
+"allow people to comment on your pages simply enable this option. "
+msgstr ""
+
+#: ../epanel/options_notebook.php:438
+msgid "Post info section"
+msgstr ""
+
+#: ../epanel/options_notebook.php:442
+msgid ""
+"Here you can choose which items appear in the postinfo section on pages. "
+"This is the area, usually below the post title, which displays basic "
+"information about your post. The highlighted itmes shown below will appear. "
+msgstr ""
+
+#: ../epanel/options_notebook.php:447
+msgid "Show Thumbs on Index pages"
+msgstr ""
+
+#: ../epanel/options_notebook.php:451
+msgid "Enable this option to show thumbnails on Index Pages."
+msgstr ""
+
+#: ../epanel/options_notebook.php:479
+msgid ""
+"Color visualizer (this is not setting, just a tool to find hexdecimal values)"
+msgstr ""
+
+#: ../epanel/options_notebook.php:481
+msgid ""
+"This is a tool that can be used to find hexdecimal color values. These "
+"values can be used to customize the colors of the various elements below. "
+"This color picker will also appear which you click in any of the fields "
+"below. "
+msgstr ""
+
+#: ../epanel/options_notebook.php:484
+msgid "Enable custom colors"
+msgstr ""
+
+#: ../epanel/options_notebook.php:488
+msgid ""
+"This option allows you to customize the color of a certain element of the "
+"theme. When you click in the field a color picker will appear. Scroll to "
+"find your desired color and then click the circular submit button on the "
+"lower right to accept the value."
+msgstr ""
+
+#: ../epanel/options_notebook.php:491
+msgid "Enable child stylesheet"
+msgstr ""
+
+#: ../epanel/options_notebook.php:495
+msgid ""
+"If you would like to add a second stylsheet to your blog enable this option "
+"and input the link to your stylesheet below."
+msgstr ""
+
+#: ../epanel/options_notebook.php:500
+msgid "Child stylesheet URL"
+msgstr ""
+
+#: ../epanel/options_notebook.php:505
+msgid "Input the URL to your child stylsheet here."
+msgstr ""
+
+#: ../epanel/options_notebook.php:508
+msgid "Main font color"
+msgstr ""
+
+#: ../epanel/options_notebook.php:512 ../epanel/options_notebook.php:519
+#: ../epanel/options_notebook.php:526 ../epanel/options_notebook.php:533
+#: ../epanel/options_notebook.php:540 ../epanel/options_notebook.php:547
+#: ../epanel/options_notebook.php:554 ../epanel/options_notebook.php:561
+msgid ""
+"This option allows you to customize the color of a certain element of the "
+"theme. When you click inside the field a color picker will appear. Scroll to "
+"find your desired color and then click the circular submit button on the "
+"lower right to accept the value"
+msgstr ""
+
+#: ../epanel/options_notebook.php:515
+msgid "Link color"
+msgstr ""
+
+#: ../epanel/options_notebook.php:522
+msgid "Menu link color"
+msgstr ""
+
+#: ../epanel/options_notebook.php:529
+msgid "Menu active link color"
+msgstr ""
+
+#: ../epanel/options_notebook.php:536
+msgid "Headings color"
+msgstr ""
+
+#: ../epanel/options_notebook.php:543
+msgid "Sidebar links color"
+msgstr ""
+
+#: ../epanel/options_notebook.php:550
+msgid "Footer text color"
+msgstr ""
+
+#: ../epanel/options_notebook.php:557
+msgid "Footer links color"
+msgstr ""
+
+#: ../epanel/options_notebook.php:578
+msgid "Homepage SEO"
+msgstr ""
+
+#: ../epanel/options_notebook.php:583
+msgid "Single Post Page SEO"
+msgstr ""
+
+#: ../epanel/options_notebook.php:588
+msgid "Index Page SEO"
+msgstr ""
+
+#: ../epanel/options_notebook.php:596
+msgid " Enable custom title "
+msgstr ""
+
+#: ../epanel/options_notebook.php:600
+msgid ""
+"By default the theme uses a combination of your blog name and your blog "
+"description, as defined when you created your blog, to create your homepage "
+"titles. However if you want to create a custom title then simply enable this "
+"option and fill in the custom title field below. "
+msgstr ""
+
+#: ../epanel/options_notebook.php:603
+msgid " Enable meta description"
+msgstr ""
+
+#: ../epanel/options_notebook.php:607
+msgid ""
+"By default the theme uses your blog description, as defined when you created "
+"your blog, to fill in the meta description field. If you would like to use a "
+"different description then enable this option and fill in the custom "
+"description field below. "
+msgstr ""
+
+#: ../epanel/options_notebook.php:610
+msgid " Enable meta keywords"
+msgstr ""
+
+#: ../epanel/options_notebook.php:614
+msgid ""
+"By default the theme does not add keywords to your header. Most search "
+"engines don't use keywords to rank your site anymore, but some people define "
+"them anyway just in case. If you want to add meta keywords to your header "
+"then enable this option and fill in the custom keywords field below. "
+msgstr ""
+
+#: ../epanel/options_notebook.php:617 ../epanel/options_notebook.php:749
+msgid " Enable canonical URL's"
+msgstr ""
+
+#: ../epanel/options_notebook.php:621
+msgid ""
+"Canonicalization helps to prevent the indexing of duplicate content by "
+"search engines, and as a result, may help avoid duplicate content penalties "
+"and pagerank degradation. Some pages may have different URLs all leading to "
+"the same place. For example domain.com, domain.com/index.html, and www."
+"domain.com are all different URLs leading to your homepage. From a search "
+"engine's perspective these duplicate URLs, which also occur often due to "
+"custom permalinks, may be treaded individually instead of as a single "
+"destination. Defining a canonical URL tells the search engine which URL you "
+"would like to use officially. The theme bases its canonical URLs off your "
+"permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr ""
+
+#: ../epanel/options_notebook.php:626
+msgid "Homepage custom title (if enabled)"
+msgstr ""
+
+#: ../epanel/options_notebook.php:631
+msgid ""
+"If you have enabled custom titles you can add your custom title here. "
+"Whatever you type here will be placed between the < title >< /title > tags "
+"in header.php"
+msgstr ""
+
+#: ../epanel/options_notebook.php:634
+msgid "Homepage meta description (if enabled)"
+msgstr ""
+
+#: ../epanel/options_notebook.php:638
+msgid ""
+"If you have enabled meta descriptions you can add your custom description "
+"here."
+msgstr ""
+
+#: ../epanel/options_notebook.php:641
+msgid "Homepage meta keywords (if enabled)"
+msgstr ""
+
+#: ../epanel/options_notebook.php:646
+msgid ""
+"If you have enabled meta keywords you can add your custom keywords here. "
+"Keywords should be separated by comas. For example: wordpress,themes,"
+"templates,elegant"
+msgstr ""
+
+#: ../epanel/options_notebook.php:649 ../epanel/options_notebook.php:727
+msgid "If custom titles are disabled, choose autogeneration method"
+msgstr ""
+
+#: ../epanel/options_notebook.php:654
+msgid ""
+"If you are not using cutsom post titles you can still have control over how "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+
+#: ../epanel/options_notebook.php:657 ../epanel/options_notebook.php:735
+#: ../epanel/options_notebook.php:773
+msgid "Define a character to separate BlogName and Post title"
+msgstr ""
+
+#: ../epanel/options_notebook.php:662 ../epanel/options_notebook.php:740
+msgid ""
+"Here you can change which character separates your blog title and post name "
+"when using autogenerated post titles. Common values are | or -"
+msgstr ""
+
+#: ../epanel/options_notebook.php:671
+msgid "Enable custom titles"
+msgstr ""
+
+#: ../epanel/options_notebook.php:675
+msgid ""
+"By default the theme creates post titles based on the title of your post and "
+"your blog name. If you would like to make your meta title different than "
+"your actual post title you can define a custom title for each post using "
+"custom fields. This option must be enabled for custom titles to work, and "
+"you must choose a custom field name for your title below."
+msgstr ""
+
+#: ../epanel/options_notebook.php:678
+msgid "Enable custom description"
+msgstr ""
+
+#: ../epanel/options_notebook.php:682
+msgid ""
+"If you would like to add a meta description to your post you can do so using "
+"custom fields. This option must be enabled for descriptions to be displayed "
+"on post pages. You can add your meta description using custom fields based "
+"off the custom field name you define below."
+msgstr ""
+
+#: ../epanel/options_notebook.php:687
+msgid "Enable custom keywords"
+msgstr ""
+
+#: ../epanel/options_notebook.php:691
+msgid ""
+"If you would like to add meta keywords to your post you can do so using "
+"custom fields. This option must be enabled for keywords to be displayed on "
+"post pages. You can add your meta keywords using custom fields based off the "
+"custom field name you define below."
+msgstr ""
+
+#: ../epanel/options_notebook.php:694
+msgid "Enable canonical URL's"
+msgstr ""
+
+#: ../epanel/options_notebook.php:698 ../epanel/options_notebook.php:753
+msgid ""
+"Canonicalization helps to prevent the indexing of duplicate content by "
+"search engines, and as a result, may help avoid duplicate content penalties "
+"and pagerank degradation. Some pages may have different URL's all leading to "
+"the same place. For example domain.com, domain.com/index.html, and www."
+"domain.com are all different URLs leading to your homepage. From a search "
+"engine's perspective these duplicate URLs, which also occur often due to "
+"custom permalinks, may be treaded individually instead of as a single "
+"destination. Defining a canonical URL tells the search engine which URL you "
+"would like to use officially. The theme bases its canonical URLs off your "
+"permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr ""
+
+#: ../epanel/options_notebook.php:703
+msgid "Custom field Name to be used for title"
+msgstr ""
+
+#: ../epanel/options_notebook.php:708
+msgid ""
+"When you define your title using custom fields you should use this value for "
+"the custom field Name. The Value of your custom field should be the custom "
+"title you would like to use."
+msgstr ""
+
+#: ../epanel/options_notebook.php:711
+msgid "Custom field Name to be used for description"
+msgstr ""
+
+#: ../epanel/options_notebook.php:716
+msgid ""
+"When you define your meta description using custom fields you should use "
+"this value for the custom field Name. The Value of your custom field should "
+"be the custom description you would like to use."
+msgstr ""
+
+#: ../epanel/options_notebook.php:719
+msgid "Custom field Name to be used for keywords"
+msgstr ""
+
+#: ../epanel/options_notebook.php:724
+msgid ""
+"When you define your keywords using custom fields you should use this value "
+"for the custom field Name. The Value of your custom field should be the meta "
+"keywords you would like to use, separated by comas."
+msgstr ""
+
+#: ../epanel/options_notebook.php:732
+msgid ""
+"If you are not using cutsom post titles you can still have control over hw "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+
+#: ../epanel/options_notebook.php:756
+msgid "Enable meta descriptions"
+msgstr ""
+
+#: ../epanel/options_notebook.php:760
+msgid ""
+"Check this box if you want to display meta descriptions on category/archive "
+"pages. The description is based off the category description you choose when "
+"creating/edit your category in wp-admin."
+msgstr ""
+
+#: ../epanel/options_notebook.php:765
+msgid "Choose title autogeneration method"
+msgstr ""
+
+#: ../epanel/options_notebook.php:770
+msgid ""
+"Here you can choose how your titles on index pages are generated. You can "
+"change which order your blog name and index title are displayed, or you can "
+"remove the blog name from the title completely."
+msgstr ""
+
+#: ../epanel/options_notebook.php:778 ../epanel/options_notebook.php:928
+#: ../epanel/options_notebook.php:936
+msgid ""
+"Here you can change which character separates your blog title and index page "
+"name when using autogenerated post titles. Common values are | or -"
+msgstr ""
+
+#: ../epanel/options_notebook.php:798
+msgid "Code Integration"
+msgstr ""
+
+#: ../epanel/options_notebook.php:806
+msgid "Enable header code"
+msgstr ""
+
+#: ../epanel/options_notebook.php:810
+msgid ""
+"Disabling this option will remove the header code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+
+#: ../epanel/options_notebook.php:813
+msgid "Enable body code"
+msgstr ""
+
+#: ../epanel/options_notebook.php:817
+msgid ""
+"Disabling this option will remove the body code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+
+#: ../epanel/options_notebook.php:822
+msgid "Enable single top code"
+msgstr ""
+
+#: ../epanel/options_notebook.php:826
+msgid ""
+"Disabling this option will remove the single top code below from your blog. "
+"This allows you to remove the code while saving it for later use."
+msgstr ""
+
+#: ../epanel/options_notebook.php:829
+msgid "Enable single bottom code"
+msgstr ""
+
+#: ../epanel/options_notebook.php:833
+msgid ""
+"Disabling this option will remove the single bottom code below from your "
+"blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+
+#: ../epanel/options_notebook.php:838
+msgid "Add code to the < head > of your blog"
+msgstr ""
+
+#: ../epanel/options_notebook.php:842
+msgid ""
+"Any code you place here will appear in the head section of every page of "
+"your blog. This is useful when you need to add javascript or css to all "
+"pages."
+msgstr ""
+
+#: ../epanel/options_notebook.php:845
+msgid ""
+"Add code to the < body > (good for tracking codes such as google analytics)"
+msgstr ""
+
+#: ../epanel/options_notebook.php:849
+msgid ""
+"Any code you place here will appear in body section of all pages of your "
+"blog. This is usefull if you need to input a tracking pixel for a state "
+"counter such as Google Analytics."
+msgstr ""
+
+#: ../epanel/options_notebook.php:852
+msgid "Add code to the top of your posts"
+msgstr ""
+
+#: ../epanel/options_notebook.php:856 ../epanel/options_notebook.php:863
+msgid ""
+"Any code you place here will be placed at the top of all single posts. This "
+"is useful if you are looking to integrating things such as social "
+"bookmarking links."
+msgstr ""
+
+#: ../epanel/options_notebook.php:859
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr ""
+
+#: ../epanel/options_notebook.php:881
+msgid "Documentation"
+msgstr ""
+
+#: ../epanel/options_notebook.php:907
+msgid "Manage Un-widgetized Advertisements"
+msgstr ""
+
+#: ../epanel/options_notebook.php:915
+msgid "Enable 468x60 banner"
+msgstr ""
+
+#: ../epanel/options_notebook.php:919
+msgid ""
+"Enabling this option will display a 468x60 banner ad on the bottom of your "
+"post pages below the single post content. If enabled you must fill in the "
+"banner image and destination url below."
+msgstr ""
+
+#: ../epanel/options_notebook.php:924
+msgid "Input 468x60 advertisement banner image"
+msgstr ""
+
+#: ../epanel/options_notebook.php:931
+msgid "Input 468x60 advertisement destination url"
+msgstr ""
+
+#: ../epanel/options_notebook.php:939
+msgid "Input 468x60 adsense code"
+msgstr ""
+
+#: ../epanel/options_notebook.php:943
+msgid "Place your adsense code here."
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "Captcha"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "Fill"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "field"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "Invalid email"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:37
+msgid "ET Page Template Settings"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:64
+msgid ""
+"Additional settings appear here, when one of ET page templates is selected "
+"( Page Attributes -> Template )"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:69
+msgid "Full Width Page"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:74
+msgid "Regenerate captcha numbers"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:78
+msgid "Email To:"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:84
+msgid "Blog Style mode"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:89
+msgid "Hide Auto Thumbnail"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:94
+msgid "Show Titles"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:99
+msgid "Show Descriptions"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:104
+msgid "Detect Portrait Images"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:108
+msgid "Thumbnail Size:"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:109
+msgid "Small"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:110
+msgid "Medium"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:111
+msgid "Large"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:115
+#: ../epanel/page_templates/page_templates.php:120
+msgid "Number of posts per page:"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:125
+msgid "Select blog categories:"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:144
+msgid "Select gallery categories:"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:15
+msgid "Previous"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:15
+msgid "Next"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:302
+msgid "Member Login"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:305
+msgid "Username: "
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:306
+msgid "Password: "
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:307
+msgid "Login"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:343
+msgid "Add a Tooltip Text"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:365
+msgid "Click here to learn more"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:973
+msgid "Caption"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:974
+msgid "Caption goes here"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:975
+msgid "Caption title goes here"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:979
+msgid "State"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:981
+msgid "Select between expanded and closed state"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:986
+#: ../epanel/shortcodes/shortcodes.php:1002
+#: ../epanel/shortcodes/shortcodes.php:1031
+#: ../epanel/shortcodes/shortcodes.php:1111
+msgid "Content"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:987
+#: ../epanel/shortcodes/shortcodes.php:1003
+#: ../epanel/shortcodes/shortcodes.php:1089
+#: ../epanel/shortcodes/shortcodes.php:1112
+msgid "Content goes here"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:988
+#: ../epanel/shortcodes/shortcodes.php:1004
+#: ../epanel/shortcodes/shortcodes.php:1033
+msgid "Content text or html"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:995
+#: ../epanel/shortcodes/shortcodes.php:1017
+msgid "Type"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:997
+msgid "Type of the box"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1011
+msgid "Link"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1013
+msgid "URL"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1019
+msgid "Choose button type"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1024
+msgid "Color"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1026
+msgid "Choose button color"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1032
+msgid "Link text"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1037
+msgid "Icon"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1039
+msgid "Used for icon button type"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1044
+msgid "Open link in new window"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1046
+msgid "Select yes if the link should be opened in a new window"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1054
+msgid "Slider Type"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1056
+msgid "Select Slider Type here"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1061
+msgid "Effect"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1063
+msgid "Select Animation Effect"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1068
+msgid "Auto"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1070
+msgid "Choose yes if you want for automatic slider animation"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1075
+msgid "Auto Speed"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1077
+msgid "Automattic slider speed (works only if Auto is set to yes)"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1081
+msgid "Tab Text"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1088
+msgid "Tab Content"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1090
+msgid "Paste image url here, if you chose \"images\" slider type"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1098
+msgid "Image Url"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1100
+msgid "Author Image URL"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1104
+msgid "Use resizing"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1181
+msgid "+ Add One More Tab"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1331
+msgid "Image Height"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1332
+msgid "Image Width"
+msgstr ""
+
+#: ../includes/additional_functions.php:22
+msgid "Video Post Format Settings: "
+msgstr ""
+
+#: ../includes/additional_functions.php:25
+msgid "Video url:"
+msgstr ""
+
+#: ../includes/additional_functions.php:28
+msgid "You can put Youtube or Vimeo link here."
+msgstr ""
+
+#: ../includes/additional_functions.php:31
+msgid "Audio Post Format Settings: "
+msgstr ""
+
+#: ../includes/additional_functions.php:34
+msgid "Audio Mp3 Url:"
+msgstr ""
+
+#: ../includes/additional_functions.php:41
+msgid "Audio Ogg Url:"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:7
+msgid "Posts Tagged "
+msgstr ""
+
+#: ../includes/breadcrumbs.php:9 ../includes/breadcrumbs.php:11
+#: ../includes/breadcrumbs.php:13 ../includes/top_info.php:8
+#: ../includes/top_info.php:10 ../includes/top_info.php:12
+msgid "Posts made in"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:15 ../includes/top_info.php:14
+msgid "Search results for"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:24 ../includes/top_info.php:21
+msgid "Posts by "
+msgstr ""
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr ""
+
+#: ../includes/no-results.php:4
+msgid ""
+"The page you requested could not be found. Try refining your search, or use "
+"the navigation above to locate the post."
+msgstr ""
+
+#: ../includes/top_info.php:6
+msgid "Posts Tagged &quot;"
+msgstr ""
+
+#: ../includes/functions/comments.php:17
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../includes/functions/comments.php:17
+msgid "(Edit)"
+msgstr ""
+
+#: ../includes/functions/comments.php:23
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../includes/functions/comments.php:29
+msgid "Reply"
+msgstr ""
+
+#: ../includes/functions/installation.php:1
+msgid "Read Notebook Documentation"
+msgstr ""
+
+#: ../includes/functions/troubleshooting.php:1
+msgid ""
+"1. First, have you read the readme documentation that came with your theme?"
+msgstr ""
+
+#: ../includes/functions/troubleshooting.php:2
+msgid ""
+"Each theme comes with a readme file that includes detailed installation "
+"instructions. Before continuing, please make sure that you have read through "
+"this file and followed each step correctly. You can view the readme files "
+"online at the following locations:\n"
+"<a href=\"http://www.elegantthemes.com/gallery/bluesky/readme.html"
+"\">Bluesky</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/bluemist/readme.html"
+"\">BlueMist</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/simplism/readme.html"
+"\">Simplism</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/quadro/readme.html\">Quadro</"
+"a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/earthlytouch/readme.html"
+"\">EarthlyTouch</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/artsee/readme.html\">ArtSee</"
+"a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/tidalforce/readme.html"
+"\">TidalForce</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/wooden/readme.html\">Wooden</"
+"a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/interphase/readme.html"
+"\">InterPhase</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/whoswho/readme.html"
+"\">Who'sWho</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/studioblue/readme.html"
+"\">StudioBlue</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/influx/readme.html\">Influx</"
+"a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/grungemag/readme.html"
+"\">GrungeMag</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/egallery/readme.html"
+"\">eGallery</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/cion/readme.html\">Cion</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/evid/readme.html\">eVid</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/egamer/readme.html\">eGamer</"
+"a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/lightsource/readme.html"
+"\">LightSource</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/coldstone/readme.html"
+"\">ColdStone</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/basic/readme.html\">Basic</"
+"a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/puretype/readme.html"
+"\">PureType</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/cherrytruffle/readme.html"
+"\">CherryTruffle</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/ebusiness/readme.html"
+"\">eBusiness</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/ephoto/readme.html\">ePhoto</"
+"a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/bold/readme.html\">Bold</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/enews/readme.html\">eNews</a>"
+msgstr ""
+
+#: ../includes/functions/troubleshooting.php:31
+msgid "2. Have you watched the video tutorials?"
+msgstr ""
+
+#: ../includes/functions/troubleshooting.php:32
+msgid ""
+"Many of the common issues that occur have already been covered in the video "
+"tutorials section of the members area. To access the video tutorials page <a "
+"href=\"http://www.elegantthemes.com/members-area/tutorials\">log in here</a>."
+msgstr ""
+
+#: ../includes/functions/troubleshooting.php:35
+msgid "3. Do you have plugins active that did not come with the theme?"
+msgstr ""
+
+#: ../includes/functions/troubleshooting.php:36
+msgid ""
+"If you are using additional plugins that did not come with the theme it is "
+"possible that one of them is interfering with the design. Unfortunately it "
+"is impossible to predict what will happen when unknown code is place into my "
+"themes, so it is always important, if you are experiencing problems, to "
+"disable all of the plugins that did not come with the theme to see if they "
+"are at fault. Try disabling each plugin one by one to find the culprit."
+msgstr ""
+
+#: ../includes/functions/troubleshooting.php:38
+msgid ""
+"4. Have you uploaded the correct theme folder to the correct theme directory?"
+msgstr ""
+
+#: ../includes/functions/troubleshooting.php:39
+msgid ""
+"When you download one of my themes and unzip it you will see a few different "
+"folders. Photoshop Files, Plugins, Theme, and, with select themes, Fonts. "
+"The &quot;theme folder&quot; that you need to upload to your server is "
+"located within the Theme folder in your ZIP file. You need to upload this "
+"folder to the correct folder on your server (wp-content/themes/). Do not "
+"upload the &quot;Theme&quot; folder, only upload the folder within the &quot;"
+"Theme&quot; folder. For example, if you are using my Studioblue theme you "
+"would want to upload the &quot;StudioBlue&quot; folder contained within the "
+"&quot;Theme&quot; folder to wp-content/themes. Do not upload StudioBlue's "
+"parent folder. Furthermore, make sure that you do not rename the &quot;"
+"StudioBlue&quot; folder.\n"
+"For more information you can also refer to this detailed video tutorial: <a "
+"href=\"http://www.elegantthemes.com/members-area/tutorials/uploading.php"
+"\">Installing a Theme</a>."
+msgstr ""
+
+#: ../includes/functions/troubleshooting.php:43
+msgid "5. Are you using the latest version of Wordpress?"
+msgstr ""
+
+#: ../includes/functions/troubleshooting.php:44
+msgid ""
+"Wordpress is constantly changing, it is always best to keep your Wordpress "
+"install up-to-date. Using an out-dated version may lead to unknown problems."
+msgstr ""
+
+#: ../includes/functions/troubleshooting.php:46
+msgid "6. Have you made any customizations to the theme?"
+msgstr ""
+
+#: ../includes/functions/troubleshooting.php:47
+msgid ""
+"Before contacting me about theme problems make sure customizations you made "
+"are not the cause of the problem. If you have made edits to the theme files, "
+"try uploading a fresh version of the theme and compare the two."
+msgstr ""
+
+#: ../includes/functions/troubleshooting.php:49
+msgid "7. Are you having trouble getting your thumbnails to appear?"
+msgstr ""
+
+#: ../includes/functions/troubleshooting.php:50
+msgid ""
+"There are several different things that could lead to thumbnail troubles. "
+"For more information please read the following guide: <a href=\"http://www."
+"elegantthemes.com/troubleshooting-timthumb.html\">Troubleshooting Timthumb</"
+"a>."
+msgstr ""
+
+#: ../includes/functions/tutorials.php:1
+msgid "Watch video tutorials"
+msgstr ""
